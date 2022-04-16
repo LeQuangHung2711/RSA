@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\21 - 22 - HK2\Bảo mật và an ninh mạng\RSACryptoProject1-noEXE-CTO-Source code CSharp\RSACryptoGUI\RSACrypto\bin\Debug\RSACrypto.dll
+C:\Users\Admin\Documents\21 - 22 - HK2\Bảo mật và an ninh mạng\RSACryptoProject1-noEXE-CTO-Source code CSharp\RSACryptoGUI\RSACrypto\bin\Debug\RSACrypto.pdb
+C:\Users\Admin\Documents\21 - 22 - HK2\Bảo mật và an ninh mạng\RSACryptoProject1-noEXE-CTO-Source code CSharp\RSACryptoGUI\RSACrypto\obj\Debug\RSACrypto.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\21 - 22 - HK2\Bảo mật và an ninh mạng\RSACryptoProject1-noEXE-CTO-Source code CSharp\RSACryptoGUI\RSACrypto\obj\Debug\RSACrypto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\21 - 22 - HK2\Bảo mật và an ninh mạng\RSACryptoProject1-noEXE-CTO-Source code CSharp\RSACryptoGUI\RSACrypto\obj\Debug\RSACrypto.dll
+C:\Users\Admin\Documents\21 - 22 - HK2\Bảo mật và an ninh mạng\RSACryptoProject1-noEXE-CTO-Source code CSharp\RSACryptoGUI\RSACrypto\obj\Debug\RSACrypto.pdb

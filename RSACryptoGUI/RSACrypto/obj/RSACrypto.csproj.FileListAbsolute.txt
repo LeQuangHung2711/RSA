@@ -1,0 +1,10 @@
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\bin\Debug\RSACrypto.dll
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\bin\Debug\RSACrypto.pdb
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\obj\Debug\RSACrypto.dll
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\obj\Debug\RSACrypto.pdb
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\bin\Release\RSACrypto.dll
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\bin\Release\RSACrypto.pdb
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\obj\Release\RSACrypto.dll
+C:\Projects\Badera\RSACryptoGUI\RSACrypto\obj\Release\RSACrypto.pdb
